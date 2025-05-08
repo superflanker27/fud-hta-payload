@@ -11,3 +11,5 @@ HOW DOES IT WORK?
 2. test.bat file creates another file with 'evil' cmds and executes it
 
 to use this for yourself you can just change the payload to execute whatever malware you want, i wouldn't recommend downloading and executing, too suspicious
+
+discord server - https://discord.gg/FdpBCBGN5M
